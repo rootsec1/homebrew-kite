@@ -2,7 +2,7 @@ cask "kite" do
   version "0.1.0"
   sha256 "9a13dcd127211c900d8fbdc18c330a4b62ee93bce04526da65e6a2415f0ec0db"
 
-  url "https://github.com/rootsec1/kite/releases/download/v0.1.0/Kite_0.1.0_universal.dmg"
+  url "https://github.com/rootsec1/kite/releases/download/v#{version}/Kite_#{version}_universal.dmg"
   name "Kite"
   desc "Native Kubernetes cockpit"
   homepage "https://github.com/rootsec1/kite"
