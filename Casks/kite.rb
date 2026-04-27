@@ -1,6 +1,6 @@
 cask "kite" do
-  version "0.1.1"
-  sha256 "4629bcb88dfd1bfdd9f36d5056dd65746832c92cc45c399c7702e1f86bfff56e"
+  version "0.1.2"
+  sha256 "59b3b7ebdb2bc81734f2853fcb35f3482c3047d386efef49e24101e33eb8286d"
 
   url "https://github.com/rootsec1/kite/releases/download/v#{version}/Kite_#{version}_universal.dmg"
   name "Kite"
